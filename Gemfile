@@ -66,6 +66,3 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'blacklight', '~> 6.23.0'
 
 ##############################################################################
-
-gem 'devise'
-gem 'devise-guests'
