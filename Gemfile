@@ -69,4 +69,3 @@ gem 'blacklight', '~> 6.23.0'
 
 gem 'devise'
 gem 'devise-guests'
-gem 'solr_wrapper'
